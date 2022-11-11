@@ -3,6 +3,22 @@ html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
+I have used this HTML 5 code to present myself to whom interest in hiring Passionate data Analyst, 
+and Willing to grow with company based on Companys' Vission and Objectives.
+
+Inside my protfolio, I will more about myself, and why I made career change and whats my personal objectives.
+
+I hope you enjoying my protfolio, hope you check my personal and professional information.
+
+
+
+
+
+
+
+
+
+
 This is Massively, a text-heavy, article-oriented design built around a huge background
 image (with a new parallax implementation I'm testing) and scroll effects (powered by
 Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
